@@ -1,22 +1,3 @@
-% HOMEWORK 4: TASK 1
-% File: HW7p2_Task1_sinayksp.m
-% Date: 27 February 2023
-% By: SHIVAM KHARANGATE (sinayksp)
-%
-% Section: 019
-% Team: 279
-%
-% ELECTRONIC SIGNATURE
-% Shivam Kharangate
-%
-% The electronic signature above indicates the script
-% submitted for evaluation is my individual work, and I
-% have a general understanding of all aspects of its
-% development and execution.
-%
-% A BRIEF DESCRIPTION OF WHAT THE SCRIPT OR FUNCTION DOES
-%
-
 clear; clc;
 A_o = input('Enter the order of the matrix: ');
 if A_o > 2 && (mod(A_o, 1) == 0)
